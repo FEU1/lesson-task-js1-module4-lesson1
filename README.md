@@ -1,6 +1,6 @@
 # JavaScript 1 - Module 4
 
-## Lesson Task 1 Question
+## Lesson Task 1 Answer
 
 Make a call to the following endpoint:
 
